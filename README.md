@@ -27,7 +27,7 @@
 - 📌 Experiência com **visualização de dados interativos**  
 - 📌 Interesse em **pesquisa aplicada** e desenvolvimento de soluções inovadoras  
 
-
+![Demo](./assets/glow_squid_croped.gif)
 <!--
 **italanleal/italanleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
