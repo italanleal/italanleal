@@ -7,22 +7,20 @@
 📌 Interesse em Gerenciamento de Processo de Negócio | BPM 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-  <img align="center" alt="go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="mongodb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
-  <img align="center" alt="neo4j" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
-  <img align="center" alt="n8n" height="50" width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.63.0/files/dark/n8n-color.png" />
-
- 
-  <img align="center" alt="plotly" height="50" width="50" src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4">
-  <img align="center" alt="postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="react" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="redis" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-  <img align="center" alt="typescript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img align="center" alt="go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
+  <img align="center" alt="neo4j" height="40" width="40"" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
+  <img align="center" alt="n8n" height="40" width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.63.0/files/dark/n8n-color.png" />
+  <img align="center" alt="plotly" height="40" width="40" src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4">
+  <img align="center" alt="postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="redis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  <img align="center" alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
 ---
-### [Glow Squid 🦑✨](https://minecraft.fandom.com/wiki/Glowing_Squid)
+### [Glow Squid 🦑✨](https://minecraft.fandom.com/wiki/Glow_Squid)
 ![GIF](./assets/glow_squid_croped.gif)
 <!--
 **italanleal/italanleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
