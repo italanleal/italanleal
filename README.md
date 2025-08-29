@@ -5,7 +5,8 @@
 
 
 
-
+## 🎧 Current Vibes
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=316cphqumpdxpdja3clmpwxs4epq&cover_image=true&theme=novatorem)
 <!--
 **italanleal/italanleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
