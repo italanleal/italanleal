@@ -1,12 +1,33 @@
-## Olá! Eu sou o Italan Leal!
+## Oioi, meu nome é Italan. 
+
+**UPE** <br>
+**dotLab** <br>
+**Lea** <br>
+
+🔬 Pesquisador em **Visualização de Dados aplicada à Saúde**  
+💻 Desenvolvedor com foco em **ciência de dados, web e serviços escaláveis**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img align="center" alt="Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
+  <img align="center" alt="Neo4j" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
+  <img align="center" alt="Plotly" height="40" width="40" src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4">
+  <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
 
 
 
+## 🌟 Destaques
+
+- 📌 Foco em aplicações de **ciência de dados na saúde**  
+- 📌 Experiência com **visualização de dados interativos**  
+- 📌 Interesse em **pesquisa aplicada** e desenvolvimento de soluções inovadoras  
 
 
-
-## 🎧 Current Vibes
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=316cphqumpdxpdja3clmpwxs4epq&cover_image=true&theme=novatorem)
 <!--
 **italanleal/italanleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
