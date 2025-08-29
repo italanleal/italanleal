@@ -3,8 +3,8 @@
 **UPE** ● **dotLab** ● **Lea** <br>
 
 📌 Desenvolvedor Full Stack <br>
-📌 Experiência com visualização de dados | DataVis <br>
-📌 Interesse em Gerenciamento de Processo de Negócio | BPM 
+📌 Experiência com visualização de dados <br>
+📌 Interesse em Gerenciamento de Processo de Negócio
 
 <div style="display: inline_block"><br>
   <img align="center" alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
