@@ -4,6 +4,11 @@
 **dotLab** <br>
 **Lea** <br>
 
+<div>
+<span style="color:green">🚀 Developer passionate about Go, React, and D3.js</span>
+  
+</div>
+
 🔬 Pesquisador em **Visualização de Dados aplicada à Saúde**  
 💻 Desenvolvedor com foco em **ciência de dados, web e serviços escaláveis**
 
@@ -22,12 +27,12 @@
 
 
 ## 🌟 Destaques
+📌 Foco em aplicações de **ciência de dados na saúde**  
+📌 Experiência com **visualização de dados interativos**  
+📌 Interesse em **pesquisa aplicada** e desenvolvimento de soluções inovadoras
 
-- 📌 Foco em aplicações de **ciência de dados na saúde**  
-- 📌 Experiência com **visualização de dados interativos**  
-- 📌 Interesse em **pesquisa aplicada** e desenvolvimento de soluções inovadoras  
-
-![Demo](./assets/glow_squid_croped.gif)
+### [Glow Squid 🦑✨](https://minecraft.fandom.com/wiki/Glowing_Squid)
+![GIF](./assets/glow_squid_croped.gif)
 <!--
 **italanleal/italanleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
