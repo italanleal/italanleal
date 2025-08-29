@@ -1,10 +1,10 @@
 # oioi, meu nome é Italan.
 
-**UPE** ● **dotLab** ● **Lea**
+**UPE** ● **dotLab** ● **Lea** <br>
 
-📌 Desenvolvedor Full Stack
-📌 Experiência com visualização de dados | DataVis
-📌 Interesse em Gerenciamento de Processo de Negócio | BPM
+📌 Desenvolvedor Full Stack <br>
+📌 Experiência com visualização de dados | DataVis <br>
+📌 Interesse em Gerenciamento de Processo de Negócio | BPM 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
