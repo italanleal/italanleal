@@ -18,6 +18,7 @@
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
+---
 ### [Glow Squid 🦑✨](https://minecraft.fandom.com/wiki/Glowing_Squid)
 ![GIF](./assets/glow_squid_croped.gif)
 <!--
