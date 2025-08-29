@@ -1,8 +1,6 @@
 # oioi, meu nome é Italan. 
 
-**UPE** <br>
-**dotLab** <br>
-**Lea** <br>
+**UPE** ● **dotLab** ● **Lea**
 
 <div>
 <span style="color:green">🚀 Developer passionate about Go, React, and D3.js</span>
