@@ -1,14 +1,10 @@
-# oioi, meu nome é Italan👑
+# oioi, meu nome é Italan.
 
 **UPE** ● **dotLab** ● **Lea**
 
-<div>
-<span style="color:green">🚀 Developer passionate about Go, React, and D3.js</span>
-  
-</div>
-
-🔬 Pesquisador em **Visualização de Dados aplicada à Saúde**  
-💻 Desenvolvedor com foco em **ciência de dados, web e serviços escaláveis**
+📌 Desenvolvedor Full Stack
+📌 Experiência com visualização de dados | DataVis
+📌 Interesse em Gerenciamento de Processo de Negócio | BPM
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
@@ -21,13 +17,6 @@
   <img align="center" alt="Redis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
-
-
-
-## 🌟 Destaques
-📌 Foco em aplicações de **ciência de dados na saúde**  
-📌 Experiência com **visualização de dados interativos**  
-📌 Interesse em **pesquisa aplicada** e desenvolvimento de soluções inovadoras
 
 ### [Glow Squid 🦑✨](https://minecraft.fandom.com/wiki/Glowing_Squid)
 ![GIF](./assets/glow_squid_croped.gif)
