@@ -2,7 +2,7 @@
 
 **UPE** ● **dotLab** ● **Lea** <br>
 
-📌 Desenvolvedor Full Stack <br>
+📌 Desenvolvedor back-end <br>
 📌 Experiência com visualização de dados <br>
 📌 Interesse em Gerenciamento de Processo de Negócio
 
