@@ -13,13 +13,14 @@
   <img align="center" alt="d3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" />
   <img align="center" alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
   <img align="center" alt="redis" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  <img align="center" alt="n8n" height="40" width="35" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.63.0/files/dark/n8n-color.png" />
+  
   
           
   <!--
   <img align="center" alt="postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
   <img align="center" alt="mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
   <img align="center" alt="neo4j" height="40" width="40"" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
-  <img align="center" alt="n8n" height="40" width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.63.0/files/dark/n8n-color.png" />
   <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   -->
 </div>
