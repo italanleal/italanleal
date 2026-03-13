@@ -5,6 +5,7 @@
 📌 Desenvolvedor back-end <br>
 📌 Experiência com visualização de dados <br>
 📌 Interesse em Gerenciamento de Processo de Negócio
+📌 Interesse em Segurança de Aplicativos Web
 
 <div style="display: inline_block"><br>
   <img align="center" alt="typescript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
