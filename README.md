@@ -27,7 +27,7 @@
 </div>
 
 ---
-### [Glow Squid 🦑✨](https://minecraft.fandom.com/wiki/Glow_Squid)
+### [✨🦑 Glow Squid 🦑✨](https://minecraft.fandom.com/wiki/Glow_Squid)
 ![GIF](./assets/glow_squid_croped.gif)
 <!--
 **italanleal/italanleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
