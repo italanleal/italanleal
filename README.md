@@ -4,7 +4,7 @@
 
 📌 Desenvolvedor back-end <br>
 📌 Experiência com visualização de dados <br>
-📌 Interesse em Gerenciamento de Processo de Negócio
+📌 Interesse em Gerenciamento de Processo de Negócio <br>
 📌 Interesse em Segurança de Aplicativos Web
 
 <div style="display: inline_block"><br>
